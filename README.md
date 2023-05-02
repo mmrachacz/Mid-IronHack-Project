@@ -1,7 +1,5 @@
 # __Temperature Change in the EU__              
-*by Maximilian Mrachacz*     
-       
-                        
+*by Maximilian Mrachacz*                            
 *for IronHack Remote Bootcamp Data Analytics*             
                   
 ## Overview:               
