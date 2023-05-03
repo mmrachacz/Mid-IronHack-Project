@@ -3,7 +3,8 @@
 *for IronHack Remote Bootcamp Data Analytics*             
                   
 ## Overview:               
-Finding parameters that (might) have an impact on / drive Temperature Change.                  
+Finding parameters that (might) have an impact on / drive Temperature Change.     
+Final Version: [New_Version_Temp_Change_and_other](https://github.com/mmrachacz/Mid-IronHack-Project/blob/main/New_Version_Temp_Change_and_other.ipynb)        
                 
 ### Tools and Methods Used:               
                  
